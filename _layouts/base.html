@@ -9,10 +9,20 @@
         <a href="{{ site.baseurl }}/">
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
+        
         <ul>
+          <!--
           <li><a href="{{ '/' | prepend: site.baseurl }}">About</a></li>
-          <li><a href="{{ '/portfolio' | prepend: site.baseurl }}/">Portfolio</a></li>
+          <li><a href="{{ '/' | prepend: site.baseurl }}">Publication</a></li>
+          <li><a href="{{ '/' | prepend: site.baseurl }}">Career</a></li>
+          <li><a href="{{ '/' | prepend: site.baseurl }}">Project</a></li>
+          -->
+          <li><a href="#about-me">About</a></li>
+          <li><a href="#publication">Publication</a></li>
+          <li><a href="#career">Career</a></li>
+          <li><a href="#project">Project</a></li>
         </ul>
+        
     </div>
   </nav>
 
@@ -20,10 +30,12 @@
       {{ content }}
     </main>
 
+    <!--
     <footer>
       <span>
         &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
       </span>
     </footer>
+    -->
   </body>
 </html>
