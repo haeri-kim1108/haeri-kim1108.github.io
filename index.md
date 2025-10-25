@@ -5,7 +5,7 @@ layout: about
 # About Me
 I am presently working for [Samsung Research](https://research.samsung.com/) as a speech AI researcher. My main research topic has recently been on-device multilingual ASR system. I received my M.S in Electrical Engineering from [KAIST](https://www.kaist.ac.kr/en/) in [IIDS](https://iids.kaist.ac.kr/), and my B.S. in Electrical Engineering from [KAIST](https://www.kaist.ac.kr/en/). I am interested in developing speech models based on a deeper understanding of their underlying mechanisms. I have been working on automatic speech recognition (ASR), and I am currently expanding my research interests to integrating speech models with techniques from various fields, such as multimodal generative AI and SpeechLLMs.
 
-Below shows my [publications](#publications), [career](#career) and [projects](#projects). Please refer to my [CV](./assets/CV.pdf) for further details.  
+Below shows my [publications](#publications), [career](#career) and [projects](#projects). Please refer to my [CV]({{ site.baseurl }}/assets/CV.pdf) for further details.  
 
 <br/>
 
