@@ -37,18 +37,22 @@ Submitted to *IEEE International Conference on Acoustics, Speech and Signal Proc
 
 # Projects
 - Speech Large Language Model (*May 2025 ~ present*)
-  - Research and implementation for integrating a speech encoder with a large language model (LLM) to enable end-to-end learning and multimodal understanding
+  - Research and development of methods to integrate a speech encoder with a large language model (LLM) for end-to-end training and multi-modal understanding
 - Multilingual ASR model (*Jan 2024 ~ present*)
-  - Model compression through a single multilingual ASR model from multiple different language-specific models
+  - Research and development of a multilingual ASR model that unifies multiple monolingual ASR systems into a single model
+  - Reduce total model footprint by replacing 23+ language-specific ASR models with a unified model
 - Live Translate on Galaxy S24 (*Jan 2023 ~ Dec 2023*)
-  - Development of ASR model for Galaxy S24 speech translation system
+  - Development of streaming on-device ASR models for Galaxy S24 speech translation system
+  - Training and optimization of streaming ASR models for multiple languages
   - [Related article](https://news.samsung.com/global/galaxy-unpacked-2024-breaking-language-barriers-trying-out-ai-powered-live-translate-on-galaxy-s24-ultra-in-san-jose-ca)
 - Samsung Bespoke AI (*May 2022 ~ Dec 2022*)
-  - Bixby voice assistant speech recognition model development
-  - Development of light-weight speech recognition models for home appliances
+  - Development of light-weight ASR models for home appliances
+  - Research and development of a language model (LM) fusion algorithm to enhance context awareness
+  - Research and development of a spell correction algorithm for improved recognition of named entities
+  - Model adaptation for home appliance domains such as washing machines and refrigerators
   - [Related article](https://news.samsung.com/global/ai-for-all-samsung-bespoke-ai-takes-accessibility-a-step-forward)
 - Data Valuation for Generative Models (*Mar 2020 - Jun 2021*)
   - Researched on devising data valuation measures for generative models
-  - Focused on Generative Adversarial Network (GAN) and used the training dynamics of GAN to diagnose training data
+  - Focused on Generative Adversarial Network (GAN) and utilized training dynamics to diagnose training data
 - Human face tracking using multi-domain network (*Jun 2017 - Jul 2017*)
   - Researched state-of-the-art object tracking technology and implemented it for human face tracking
