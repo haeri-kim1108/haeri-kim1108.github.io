@@ -11,6 +11,9 @@ Below shows my [publications](#publications), [career](#career) and [projects](#
 
 # Publications
 ### Conference Papers
+- **BBPE16: UTF-16-Based Byte-Level Byte-Pair Encoding for Improved Multilingual Speech Recognition**\
+Hyunsik Kim\*, <ins>Haeri Kim\*</ins>, Munhak Lee, Kyungmin Lee\
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026
 - **[A More Accurate Internal Language Model Score Estimation for the Hybrid Autoregressive Transducer](https://www.isca-archive.org/interspeech_2023/lee23b_interspeech.pdf)**\
 Kyungmin Lee\*, <ins>Haeri Kim\*</ins>, Sichen Jin, Jinhwan Park, Youngho Han\
 *Interspeech*, 2023
@@ -18,10 +21,8 @@ Kyungmin Lee\*, <ins>Haeri Kim\*</ins>, Sichen Jin, Jinhwan Park, Youngho Han\
 Jinhee Lee\*, <ins>Haeri Kim\*</ins>, Youngkyu Hong\*, Hye Won Chung\
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2021
 
-### Under Review
-- **BBPE16: UTF-16-Based Byte-Level Byte-Pair Encoding for Improved Multilingual Speech Recognition**\
-Hyunsik Kim\*, <ins>Haeri Kim\*</ins>, Munhak Lee, Kyungmin Lee\
-Submitted to *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026
+<!-- ### Under Review -->
+
 
 <br/>
 
